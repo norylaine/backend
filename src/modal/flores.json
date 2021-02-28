@@ -1,10 +1,10 @@
-{   "flor": "amor-perfeito",
+[{   "flor": "amor-perfeito",
     "nome_cientifico": "Viola x wittrockiana",
     "necessidade_de_sol": "sol pleno",
     "altura": "20 cm",
     "epoca_da_florada": "primavera-verão",
     "ciclo_de_vida": "bianual",
-    "id": "1"
+    "id": 1
 },
 {   "flor": "azaleia",
     "nome_cientifico": "Rhododendron simsii",
@@ -12,7 +12,7 @@
     "altura": "2m",
     "epoca_da_florada": "inverno e primavera",
     "ciclo_de_vida": "perene",
-    "id": "2"
+    "id": 2
 },
 {   "flor": "begônia",
     "nome_cientifico": "Begonia semperflorens",
@@ -20,7 +20,7 @@
     "altura": "30cm",
     "epoca_da_florada": "todo o ano",
     "ciclo_de_vida": "bianual",
-    "id": "3"
+    "id": 3
 },
 {   "flor": "girassol",
     "nome_cientifico": "Helianthus annuus",
@@ -28,7 +28,7 @@
     "altura": "1,5m",
     "epoca_da_florada": "primavera e verão",
     "ciclo_de_vida": "anual",
-    "id": "4"
+    "id": 4
 },
 {   "flor": "hibisco",
     "nome_cientifico": "Hibiscus rosa-sinensis",
@@ -36,7 +36,7 @@
     "altura": "4m",
     "epoca_da_florada": "todo o ano",
     "ciclo_de_vida": "anual",
-    "id": "5"
+    "id": 5
 },
 {   "flor": "lavanda",
     "nome_cientifico": "Lavandula dentata",
@@ -44,7 +44,7 @@
     "altura": "50cm",
     "epoca_da_florada": "primavera e verão",
     "ciclo_de_vida": "perene",
-    "id": "6"
+    "id": 6
 },
 {   "flor": "lírio",
     "nome_cientifico": "Lilium pumilum",
@@ -52,7 +52,7 @@
     "altura": "50cm",
     "epoca_da_florada": "inverno e primavera",
     "ciclo_de_vida": "perene",
-    "id": "7"
+    "id": 7
 },
 {   "flor": "lótus",
     "nome_cientifico": "Nelumbo nucifera",
@@ -60,7 +60,7 @@
     "altura": "1,5m",
     "epoca_da_florada": "primavera e verão",
     "ciclo_de_vida": "perene",
-    "id": "8"
+    "id": 8
 },
 {   "flor": "margarida",
     "nome_cientifico": "Leucanthemum vulgare",
@@ -68,7 +68,7 @@
     "altura": "50cm",
     "epoca_da_florada": "verão e outono",
     "ciclo_de_vida": "perene",
-    "id": "9"
+    "id": 9
 },
 {   "flor": "tulipa",
     "nome_cientifico": "Tulipa sp.",
@@ -76,9 +76,9 @@
     "altura": "50cm",
     "epoca_da_florada": "primavera e verão",
     "ciclo_de_vida": "perene",
-    "id": "10"
+    "id": 10
 }
-
+]
 
 
 
