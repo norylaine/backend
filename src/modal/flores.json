@@ -1,4 +1,4 @@
-[{   "flor": "amor-perfeito",
+[{   "nome": "amor-perfeito",
     "nome_cientifico": "Viola x wittrockiana",
     "necessidade_de_sol": "sol pleno",
     "altura": "20 cm",
@@ -6,7 +6,7 @@
     "ciclo_de_vida": "bianual",
     "id": 1
 },
-{   "flor": "azaleia",
+{   "nome": "azaleia",
     "nome_cientifico": "Rhododendron simsii",
     "necessidade_de_sol": "sol pleno",
     "altura": "2m",
@@ -14,7 +14,7 @@
     "ciclo_de_vida": "perene",
     "id": 2
 },
-{   "flor": "begônia",
+{   "nome": "begônia",
     "nome_cientifico": "Begonia semperflorens",
     "necessidade_de_sol": "meia sombra",
     "altura": "30cm",
@@ -22,7 +22,7 @@
     "ciclo_de_vida": "bianual",
     "id": 3
 },
-{   "flor": "girassol",
+{   "nome": "girassol",
     "nome_cientifico": "Helianthus annuus",
     "necessidade_de_sol": "sol pleno",
     "altura": "1,5m",
@@ -30,7 +30,7 @@
     "ciclo_de_vida": "anual",
     "id": 4
 },
-{   "flor": "hibisco",
+{   "nome": "hibisco",
     "nome_cientifico": "Hibiscus rosa-sinensis",
     "necessidade_de_sol": "sol pleno",
     "altura": "4m",
@@ -38,7 +38,7 @@
     "ciclo_de_vida": "anual",
     "id": 5
 },
-{   "flor": "lavanda",
+{   "nome": "lavanda",
     "nome_cientifico": "Lavandula dentata",
     "necessidade_de_sol": "sol pleno",
     "altura": "50cm",
@@ -46,7 +46,7 @@
     "ciclo_de_vida": "perene",
     "id": 6
 },
-{   "flor": "lírio",
+{   "nome": "lírio",
     "nome_cientifico": "Lilium pumilum",
     "necessidade_de_sol": "sol pleno e meia sombra",
     "altura": "50cm",
@@ -54,7 +54,7 @@
     "ciclo_de_vida": "perene",
     "id": 7
 },
-{   "flor": "lótus",
+{   "nome": "lótus",
     "nome_cientifico": "Nelumbo nucifera",
     "necessidade_de_sol": "sol pleno",
     "altura": "1,5m",
@@ -62,7 +62,7 @@
     "ciclo_de_vida": "perene",
     "id": 8
 },
-{   "flor": "margarida",
+{   "nome": "margarida",
     "nome_cientifico": "Leucanthemum vulgare",
     "necessidade_de_sol": "sol pleno",
     "altura": "50cm",
@@ -70,7 +70,7 @@
     "ciclo_de_vida": "perene",
     "id": 9
 },
-{   "flor": "tulipa",
+{   "nome": "tulipa",
     "nome_cientifico": "Tulipa sp.",
     "necessidade_de_sol": "sol pleno e meia sombra",
     "altura": "50cm",
